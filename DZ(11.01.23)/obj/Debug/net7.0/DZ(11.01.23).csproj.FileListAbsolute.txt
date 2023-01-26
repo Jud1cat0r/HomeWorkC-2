@@ -1,0 +1,5 @@
+C:\Users\gamej\Desktop\C#\DZ\DZ(11.01.23)\DZ(11.01.23)\obj\Debug\net7.0\DZ(11.01.23).csproj.AssemblyReference.cache
+C:\Users\gamej\Desktop\C#\DZ\DZ(11.01.23)\DZ(11.01.23)\obj\Debug\net7.0\DZ(11.01.23).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamej\Desktop\C#\DZ\DZ(11.01.23)\DZ(11.01.23)\obj\Debug\net7.0\DZ(11.01.23).AssemblyInfoInputs.cache
+C:\Users\gamej\Desktop\C#\DZ\DZ(11.01.23)\DZ(11.01.23)\obj\Debug\net7.0\DZ(11.01.23).AssemblyInfo.cs
+C:\Users\gamej\Desktop\C#\DZ\DZ(11.01.23)\DZ(11.01.23)\obj\Debug\net7.0\DZ(11.01.23).csproj.CoreCompileInputs.cache
